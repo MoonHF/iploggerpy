@@ -6,8 +6,8 @@
 
 # SETUP
 1) Just create any bot in telegram with @BotFather , afet that copy the token and paste it int variable "Token"
-2) Now to fing your chat id start the bot @userinfobot in telegram , copy you chat id and paste it in the variable "CHAT_ID"
-3) Just start the proggram :)
+2) Now to find your chat id start the bot @userinfobot in telegram , copy you chat id and paste it in the variable "CHAT_ID"
+3) Just start the code :)
 
 # Requirements 
 1) pyfiglet
