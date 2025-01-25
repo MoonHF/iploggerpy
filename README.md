@@ -1,5 +1,5 @@
 # Disclaimer 
- This proggram is maded only for Educational Purposes , The creator is not responsible for your actions!
+ This program is maded only for Educational Purposes , The creator is not responsible for your actions!
 # Info 
  So , that's a simple tool that just print " ipconfig" in your cmd and send a message with it to your telegram bot
  simple and stable tool , you can even
